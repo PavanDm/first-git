@@ -1,2 +1,2 @@
 # first-git
-first-git-commit
+first-dit-commit
